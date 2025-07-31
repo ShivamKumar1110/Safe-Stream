@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Safe-Stream/static/css/main.e6c13ad2.css",
+    "main.js": "/Safe-Stream/static/js/main.a95cf677.js",
+    "static/js/453.670e15c7.chunk.js": "/Safe-Stream/static/js/453.670e15c7.chunk.js",
+    "index.html": "/Safe-Stream/index.html",
+    "main.e6c13ad2.css.map": "/Safe-Stream/static/css/main.e6c13ad2.css.map",
+    "main.a95cf677.js.map": "/Safe-Stream/static/js/main.a95cf677.js.map",
+    "453.670e15c7.chunk.js.map": "/Safe-Stream/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a95cf677.js"
+  ]
+}
