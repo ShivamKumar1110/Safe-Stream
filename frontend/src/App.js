@@ -15,7 +15,8 @@ function App() {
     setLoading(true);
 
     try {
-      const response = await axios.post("http://localhost:8000/upload/", formData);
+      const response = await axios.post("https://safe-stream-backend.onrender.com/upload/", formData);
+
       setResults(response.data.results || []);
       setStatus(response.data.status || "");
       console.log("✅ Response:", response.data);
